@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kk/cartographer_ws/install_isolated/setup.sh

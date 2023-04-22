@@ -1,0 +1,9 @@
+- git:
+    local-name: cartographer
+    uri: https://gitee.com/WLwindlinfeng/cartographer.git
+    version: 2.0.0
+- git:
+    local-name: cartographer_ros
+    uri: https://gitee.com/WLwindlinfeng/cartographer_ros.git
+    version: master
+
